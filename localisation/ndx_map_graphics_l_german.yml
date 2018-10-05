@@ -1,4 +1,4 @@
-﻿l_spanish: 
+﻿l_german: 
  ##############################################
  # Graphical Cultures
  ##############################################
@@ -196,4 +196,48 @@
  mix_huron_gfx: "Huron" # HUR
  mix_iroquois_gfx: "Iroquois" # IRO
  mix_sioux_gfx: "Sioux" # SIO
+ 
+ mix_byzantium_gfx: "Byzantium" # BYZ
+ 
+ mix_haasa_gfx: "Haasa" # ALH 
+ mix_aq_qoyonlu_gfx: "Aq Qoyonlu" # AKK
+ mix_shammar_gfx: "Shammar" # SHM
+ mix_qara_qoyonlu_gfx: "Qara Qoyonlu" # QAR
+
+ mix_afghanistan_gfx: "Afghanistan" # AFG
+ mix_kurdish_gfx: "Kurdish" # HSN 
+ mix_persia_gfx: "Persia" # PER
+ mix_tabarestan_gfx: "Tabarestan" # TAB
+
+ mix_aden_gfx: "Aden" # ADE
+ mix_hedjaz_gfx: "Hedjaz" # HED ###
+ mix_najd_gfx: "Najd" # NAJ
+ mix_oman_gfx: "Oman" # OMA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
